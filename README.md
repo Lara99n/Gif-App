@@ -1,11 +1,9 @@
 <h2>Temas puntuales:</h2>
 
 <ul>
-    <li>Custom Hooks</li>
-
-    <li>Fetch hacia un API</li>
-
-    <li>Comunicación entre componentes</li>
+ <li>Custom Hooks</li>
+ <li>Fetch hacia un API</li>
+<li>Comunicación entre componentes</li>
 
     <li>Clases de CSS</li>
 

@@ -7,9 +7,7 @@
 
     <li>Comunicación entre componentes</li>
 
-    <li>Clases de CSS
-
-    </li>
+    <li>Clases de CSS</li>
 
     <li>Animaciones</li>
 

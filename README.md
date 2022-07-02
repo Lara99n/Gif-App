@@ -1,25 +1,25 @@
 <h2>Temas puntuales:</h2>
 
 <ul>
-<li>Custom Hooks</li>
+    <li>Custom Hooks</li>
 
-<li>Fetch hacia un API</li>
+    <li>Fetch hacia un API</li>
 
-<li>Comunicación entre componentes</li>
+    <li>Comunicación entre componentes</li>
 
-<li>Clases de CSS
+    <li>Clases de CSS
 
-</li>
+    </li>
 
-<li>Animaciones</li>
+    <li>Animaciones</li>
 
-<li>Enviar métodos como argumentos</li>
+    <li>Enviar métodos como argumentos</li>
 
-<li>Crear listados</li>
+    <li>Crear listados</li>
 
-<li>Keys</li>
+    <li>Keys</li>
 
-<li>Giphy</li>
+    <li>Giphy</li>
 
 </ul>
 

@@ -14,6 +14,7 @@
 </ul>
 
 <img src="rick.png"/>
+<img src="simpson.png"/>
 <img  src="valorant.png"/>
 
 Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar React + customHooks para poder resolver necesidades en específico que podremos re-utilizar después.

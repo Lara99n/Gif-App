@@ -13,4 +13,8 @@
 
 </ul>
 
-Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar React + customHooks para poder resolver necesidades en específico que podremos re-utilizar después.
+<img src="rick.png"/>
+<img src="simpson.png"/>
+<img  src="valorant.png"/>
+
+Aplicacion para buscar Gifs hecha con React + customHooks. 
